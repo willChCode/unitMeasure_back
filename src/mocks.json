@@ -1,0 +1,28 @@
+{
+  "producto2": {
+    "_id": "2",
+    "nombre": "harina",
+    "unidades": [
+      {
+        "nombre": "gramo",
+        "abreviatura": "g",
+        "equivalente_base": 1
+      },
+      {
+        "nombre": "kilo",
+        "abreviatura": "kg",
+        "equivalente_base": 1000
+      },
+      {
+        "nombre": "quintal",
+        "abreviatura": "q",
+        "equivalente_base": 100000
+      }
+    ],
+    "stock_actual": {
+      "g": 500000,
+      "kg": 500,
+      "q": 2
+    }
+  }
+}
